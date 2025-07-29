@@ -27,9 +27,9 @@ This project showcases fundamental front-end development skills using **HTML, CS
 
 
 Task-1
-  ├── LandingPage.html
-  ├── LandingPage.css
-  ├── LandingPage.js
+  ├── index.html
+  ├── style.css
+  ├── script.js
   ├── img3.png
   └── README.md
 
