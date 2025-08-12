@@ -57,7 +57,6 @@ Task-3/
 
 🚀 **Live Demo**
 
-🌐 [View Project on GitHub Pages](https://chandrakala-utla.github.io/OIBSIP/Task-3/)  
-
-
+🌐 [View Project on GitHub Pages](https://chandrakala-utla.github.io/OIBSIP/Task-3/)
+  
 ✅ **Task 3 completed successfully** as part of the **Oasis Infobyte Internship Program**.
